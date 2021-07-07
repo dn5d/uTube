@@ -5,9 +5,9 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/dn5dk/uTube",
+  "repository": "https://github.com/dn5d/uTube",
   "success_url": "https://t.me/ILOIOIL",
-  "website": "https://github.com/dn5dk/uTube",
+  "website": "https://github.com/dn5d/uTube",
   "env": {
         "API_ID": {"description": "هـنا ضع الأيـبي ايدي", "required": true},
         "API_HASH": {"description": "هـنا ضع الأيبـي هاش" , "required": true},
