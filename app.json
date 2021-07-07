@@ -14,7 +14,7 @@
         "BOT_TOKEN": {"description": "هـنا ضع تـوكن البوت","required": true}
   },
       "buildpacks": [
-        {"url": "https://github.com/dn5d/uTube.git"},
+        {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
         {"url": "heroku/python"}
     ],
   "formation": {
